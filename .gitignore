@@ -1,0 +1,21 @@
+# Claude Code local settings
+.claude/
+
+# Environment variables and secrets
+.env
+.env.local
+.env.*.local
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE/Editor
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Chat conversation
+chat-conversation.txt
